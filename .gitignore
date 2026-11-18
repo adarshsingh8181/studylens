@@ -1,0 +1,19 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+venv/
+data/
+__pycache__/
+*.pyc
+.temp/
+output/
+.streamlit/secrets.toml
+# Test artifacts
+test-results/
+playwright-report/
+.blob-report/
